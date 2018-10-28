@@ -1,0 +1,9 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+        "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+        "AzureWebJobsDashboard": "UseDevelopmentStorage=true",
+        "Bittrex.ApiKey":  "e3ce54d6629645219f04e0c88c3957a3",
+        "Bittrex.ApiSecret":  "8a2bf07313aa454aa19b4ac4fa9f145e" 
+    }
+}
